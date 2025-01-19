@@ -4,7 +4,7 @@ I'm a passionate developer specializing in **Full Stack Development** and **Game
 
 ## 🌟 About Me
 - **Name**: Teesmoke
-- **Location**: [Your location or region]
+- **Location**: [Montréal,Québec,Canadas]
 - **Current Focus**: Developing and managing a custom **FiveM RP Server** - [WindyWorld RP](https://discord.gg/YTbhwP3JQm)
 
 ## 🚀 Current Projects:
@@ -14,10 +14,10 @@ I'm a passionate developer specializing in **Full Stack Development** and **Game
 
 ## 🛠️ Technologies & Tools:
 - **Languages**: Lua, JavaScript, Python, C++
-- **Frameworks**: FiveM (Custom Scripts), Node.js, Express
+- **Frameworks**: FiveM (Custom Scripts), QB, ESX, QBOX, Node.js, Express
 - **Game Engines**: Unity, Unreal Engine
 - **Databases**: MySQL, MongoDB
-- **Tools**: Git, Docker, VS Code
+- **Tools**: Git, Docker, VS Code, CodeWalker
 
 ## 🌐 Projects and Repositories:
 - [WindyWorld RP Server Scripts](link-to-your-repo)
@@ -30,7 +30,7 @@ I'm a passionate developer specializing in **Full Stack Development** and **Game
 
 Feel free to explore my repositories and see how I bring my ideas to life! Also, if you're a FiveM enthusiast or want to join a thriving RP community, **WindyWorld RP** is the place to be. 🚗💨
 
-[![WindyWorld RP](https://discord.gg/YTbhwP3JQm)
+- My Fivem Server: WindyWorld RP: (https://discord.gg/YTbhwP3JQm)
 
 
 
