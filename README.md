@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **@Teesmoke-jpg**
+# 👋 Hi, I'm **@Teesmoke**
 
 I'm a passionate developer specializing in **Full Stack Development** and **Game Development**, with a special focus on **FiveM Server Development**. I love creating immersive game experiences and exploring new technologies.
 
