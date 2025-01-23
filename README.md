@@ -20,8 +20,8 @@ I'm a passionate developer specializing in **Full Stack Development** and **Game
 - **Tools**: Git, Docker, VS Code, CodeWalker
 
 ## 🌐 Projects and Repositories:
-- [WindyWorld RP Server Scripts]([link-to-your-repo](https://discord.gg/YTbhwP3JQm))
-- [FiveM Custom Scripts]([link-to-another-repo](https://github.com/TeeSmoke-DEV?tab=repositories))
+- [WindyWorld RP Server Scripts](https://discord.gg/YTbhwP3JQm)
+- [FiveM Custom Scripts](https://github.com/TeeSmoke-DEV?tab=repositories)
 
 ## 📫 Reach Me:
 - **Discord**: [teesmoke](https://discord.com/users/teesmoke)  
